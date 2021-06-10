@@ -1,4 +1,4 @@
 # demo-repo
 Demo for Github training
 
-Description.
+Learning how to use github!
